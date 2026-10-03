@@ -2,109 +2,89 @@
 # NICHT für Claude (Cowork) und NICHT für Claude Code.
 
 **Stand:** 03.10.2026 · **Absender:** Claude (Cowork-Analyse) im Auftrag von Tobi
-**Ziel:** Print my Pet bekommt in 30 Tagen **200 echte Newsletter-Abonnenten** (Hundepost, Futterrechner, Welpen-Startpaket). Technik und Mailstrecken stehen. Es fehlen Publikum und Aufräumarbeiten.
-**Du arbeitest im Browser (Brevo, Postiz, Shopify, YouTube). Claude hat dafür keine Klick-Rechte.**
+**Thema:** NUR das Newsletter-System von Print my Pet (Brevo, Anmeldung, Mailstrecken). **Nicht** Social, Postiz, Blog, YouTube oder Shop-Inhalte. Das ist bewusst ausgeklammert.
+**Ziel:** Das System ist sauber, zustellbar und sendebereit, damit echte Abonnenten kommen können.
+**Du arbeitest im Browser (Brevo, Shopify-Einstellungen). Claude hat dafür keine Klick-Rechte.**
 
 ---
 
-## 0. Spielregeln (hart, bitte vor dem Start lesen)
+## 0. Spielregeln (hart)
 
-1. **Nichts an echte Abonnenten senden.** Keine Kampagne versenden oder terminieren, bevor Tobi freigibt. Entwürfe sind erlaubt.
-2. **Keine neuen laufenden Kosten.** Kein Tarif-Upgrade, kein neues Tool, kein Abo. Bei Bedarf Tobi fragen und die Kosten nennen.
-3. **Vor jedem Löschen sichern.** Notiere ID, Name und Inhalt (Screenshot oder Export). Gelöscht wird nur, was unten ausdrücklich erlaubt ist.
-4. **Postiz arbeitet in UTC.** Lokal ist bis 24.10.2026 CEST (UTC+2), ab 25.10.2026 CET (UTC+1). Beispiel: `15:00 UTC` = `17:00` lokal. Vor jedem Urteil über Uhrzeiten erst umrechnen.
-5. **Amazon-Affiliate-Posts werden nie beworben.** Partner-Tag `printmypet-21`, Kennzeichnung „(Werbung / Partnerlink)" plus „Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
-6. **Nichts raten.** Wenn eine Einstellung anders aussieht als beschrieben, stoppen, Screenshot machen und im Bericht melden.
+1. **Nichts an echte Abonnenten senden und keine Kampagne terminieren**, bevor Tobi freigibt. Entwürfe bearbeiten ist erlaubt.
+2. **Keine neuen laufenden Kosten.** Kein Tarif-Upgrade, keine kostenpflichtige App. Bei Bedarf Tobi fragen und die Kosten nennen.
+3. **Vor jedem Löschen sichern** (ID, Name, Screenshot). Gelöscht wird nur, was unten ausdrücklich erlaubt ist.
+4. **Keine DNS-Änderungen** ohne Tobi. Du prüfst und meldest, ändern tut Tobi.
+5. **Bestehende Mailstrecken nicht umbauen.** Design und Texte sind fertig (Markenstil Print my Pet). Es werden nur die unten genannten Fehler behoben.
+6. **Nichts raten.** Sieht eine Einstellung anders aus als beschrieben: Screenshot, im Bericht melden.
 
 ---
 
-## 1. Ausgangslage (von Claude geprüft, nicht neu erfinden)
+## 1. Ausgangslage (von Claude geprüft)
 
-**Brevo** (Konto tbpersonaltraining.nbg@gmail.com, Firma Creator Advisory S.L., Free-Tarif, ca. 300 Mails pro Tag):
-- Sender „Print my Pet" = `newsletter@printmypet.de`.
-- Listen: Hundepost (ID 16, 1 Kontakt), Futterrechner (ID 15, 7), Print my Pet – Welpen-Startpaket (ID 10, 5). Das sind überwiegend Testkontakte.
-- 72 Kontakte insgesamt, davon 34 Test-Aliase (`name+xyz@gmail.com`).
-- 149 Templates, darunter Altlasten. Eine Strecke von 14 Mails (Tag 2 bis Tag 365), Willkommen F1 bis F6, Hundepost G1 bis G3.
-- **Hundepost-Entwürfe Nr. 1 bis 6** (Kampagnen-IDs 184 bis 189), Nr. 1 für **Di 13.10.2026, 18:30**, danach alle 2 Wochen.
-- Gesund aus der Erde: Ausgabe „September 2" (Kampagne 75) steht auf **suspended**.
+**Brevo-Konto** tbpersonaltraining.nbg@gmail.com (Creator Advisory S.L., Free-Tarif, ca. 300 Mails pro Tag). Sender „Print my Pet" = `newsletter@printmypet.de`, aktiv.
 
-**Postiz:** 19 Kanäle. Bei Print my Pet sind 791 Posts eingeplant oder als Entwurf, davon **493 ohne sichtbaren Hinweis auf Futterrechner, Hundepost, Startpaket oder Shop**. Die Liste liegt in `postiz_pmp_cta_analyse_2026-10-03.csv` (Spalte `hat_cta_0_1` = 0 heißt: kein CTA im Text).
+**Listen (Print my Pet):** Hundepost (ID 16, 1 Kontakt), Futterrechner (ID 15, 7), Welpen-Startpaket (ID 10, 5). Überwiegend Testkontakte. Insgesamt 72 Kontakte, davon 34 Test-Aliase (`name+xyz@gmail.com`).
 
-**Fehlgeschlagen (ERROR), ohne Fehlermeldung:**
-- Pinterest `printmypetinfo`, 4 Pins (Tassen), 01.10., ca. 20:57–20:58 UTC.
-- Facebook `PrintmyPet`, 27.09., 16:00 UTC.
-- Threads `print.mypet`, 30.09., 15:00 UTC.
-- Instagram `Print my Pet`, 30.09., 16:00 UTC.
-- (Nicht Print my Pet, nur der Vollständigkeit halber: TB Personal Training Instagram 25.09. und Pinterest 13.09.)
+**Mailstrecken (Templates), von Claude geprüft:** 44 Vorlagen, alle Abmeldelinks vorhanden (wo nötig), alle Amazon-Links mit Partner-Tag `printmypet-21`, Variablen sauber. **Keine Fehler in den Strecken gefunden.**
+
+**Hundepost-Entwürfe Nr. 1 bis 6** (Kampagnen-IDs 184 bis 189), alle an Liste 16, Nr. 1 für **Di 13.10.2026, 18:30**, danach alle 2 Wochen.
+
+### Zwei Probleme in Hundepost Nr. 1 (Kampagne 184)
+
+1. **Im Mailtext steht ein gelber Redaktionshinweis:** „[PRÜFEN: Corgi-Video (w9YTWQScoGE) laut Studio-Stand 20.09. geplant auf 06.10.; Vorschaubild erst ab Veröffentlichung abrufbar. Beschreibungssatz vor Versand gegen das Video prüfen. Shiba Inu (U8kulB1gf7I) erscheint am 13.10. selbst.]" Er steht in der Karte „Aus dem Kanal". **Würde er so versendet, sähen ihn die Leser.**
+2. **Die Kampagne ist weder getestet noch terminiert:** `testSent = false`, `scheduledAt` leer. Sie läuft also nicht von allein am 13.10.
 
 ---
 
 ## 2. Aufträge, nach Priorität
 
-### A. Brevo aufräumen (Aufwand ca. 30 Minuten)
+### A. Hundepost Nr. 1 versandfertig machen (dringend, Termin 13.10.)
 
-A1. **Sicher löschen:** Template **149** („TEST Enthaelt-Pruefung (loeschen)").
+A1. **Gelben Hinweisblock entfernen** (Kampagne 184, Karte „Aus dem Kanal").
+A2. **Corgi-Video prüfen:** Ist `https://www.youtube.com/watch?v=w9YTWQScoGE` öffentlich und das Vorschaubild abrufbar? Passt der Beschreibungssatz („Unser Rasseportrait: was einen Corgi ausmacht und für wen er passt.") zum Video? **Wenn das Video am 13.10. nicht öffentlich ist:** nicht entscheiden, sondern Tobi melden. Alternative wäre das Shiba-Inu-Video, das am 13.10. selbst erscheint.
+A3. **Testversand** an Tobis Testadressen (nur diese, nicht an Liste 16) und Darstellung prüfen: Desktop, Handy, Bilder, Buttons, Abmeldelink, Absender „Print my Pet", Antwortadresse `kontakt@printmypet.de`.
+A4. **Empfänger prüfen:** Liste 16 enthält heute 1 Kontakt, vermutlich ein Test. Melde Tobi, wer genau drin ist.
+A5. **Nicht terminieren.** Tobi gibt frei. Danach terminiert er (oder du auf seinen Wunsch) für Di 13.10., 18:30. Zeitzone im Konto: Europe/Berlin.
 
-A2. **Erst prüfen, dann löschen:** Templates **148, 150 bis 155** („Futterrechner Ergebnis" und v2 bis v6) sowie **157** und **165** (inaktiv).
-- Öffne Automationen/Workflows und finde heraus, welche Version die Futterrechner-Strecke wirklich nutzt (vermutlich v6, ID 154).
-- **Diese eine Version behalten**, jedes Template löschen, das in **keiner** Automation und keiner Kampagne vorkommt.
-- Melde in einer Tabelle: ID, Name, „in Nutzung ja/nein", „gelöscht ja/nein".
+Hundepost Nr. 2 bis 6: nur lesen und melden, ob weitere Platzhalter, gelbe Hinweise oder Videos mit unklarem Veröffentlichungstermin drinstehen. Nichts ändern.
 
-A3. **Testkontakte kennzeichnen statt löschen:** Lege ein Attribut oder Tag `TEST` an und setze es bei allen 34 Kontakten mit `+` in der Adresse. Diese Adressen brauchen wir noch zum Testen. Ziel: Echte Abonnenten lassen sich später sauber filtern.
+### B. Brevo aufräumen
 
-A4. **Leere Listen löschen**, nur diese: „Ihre erste Liste" (ID 2), „Creator Advisory" (ID 6), „In Ruhe erklärt – Newsletter" (ID 14), „VyriaGym – Trainingsplan-Anfragen" (ID 12). **Nicht löschen:** „Bücher-Warteliste GadE" (ID 13) und alle Listen mit Kontakten.
+B1. **Sicher löschen:** Template **149** („TEST Enthaelt-Pruefung (loeschen)").
 
-A5. **Hundepost Nr. 1 (Kampagne 184) prüfen, nicht senden:** Empfängerliste, Absender, Betreff, Vorschautext, Links und UTM-Parameter. Melde, ob eine Empfängerliste hinterlegt ist und ob Testkontakte mitgehen würden.
+B2. **Erst prüfen, dann löschen:** Templates **148 und 150 bis 155** („Futterrechner Ergebnis", v2 bis v6) sowie **157** und **165** (inaktiv).
+- Prüfe in Automationen/Workflows, welche Version die Futterrechner-Strecke nutzt (vermutlich v6, ID 154).
+- **Diese Version behalten**, jedes Template löschen, das in keiner Automation und keiner Kampagne vorkommt.
+- Melde als Tabelle: ID, Name, „in Nutzung ja/nein", „gelöscht ja/nein".
 
-A6. **Gesund aus der Erde, Kampagne 75 „September 2" (suspended):** Finde den Grund heraus (Zustellfehler, Limit, manuell gestoppt) und melde ihn. **Nicht fortsetzen**, Tobi entscheidet.
+B3. **Testkontakte kennzeichnen statt löschen:** Lege ein Attribut oder Tag `TEST` an und setze es bei allen 34 Kontakten mit `+` in der Adresse. Sie werden noch zum Testen gebraucht.
 
-A7. **Anmeldeformulare prüfen:** Gibt es für Hundepost, Futterrechner und Welpen-Startpaket aktive Formulare? Welche URLs, welche Liste, Double-Opt-in an? Lege die Links in eine Tabelle. Die brauchen wir in Abschnitt C.
+B4. **Leere Listen löschen**, nur diese: „Ihre erste Liste" (ID 2), „Creator Advisory" (ID 6), „In Ruhe erklärt – Newsletter" (ID 14), „VyriaGym – Trainingsplan-Anfragen" (ID 12). **Nicht löschen:** „Bücher-Warteliste GadE" (ID 13) und alle Listen mit Kontakten.
 
-### B. Postiz: nur Verbindung prüfen, nichts Altes ändern
+### C. Zustellbarkeit prüfen (nur prüfen und melden)
 
-**Tobi-Vorgabe (03.10.): Keine alten Posts ändern.** Weder veröffentlichte noch fehlgeschlagene noch bereits eingeplante Posts werden angefasst, nicht in Text, Medien, Datum oder Kanal. Der bestehende Plan bleibt exakt so, wie er ist.
+C1. **Domain-Authentifizierung für `printmypet.de`** in Brevo (Senders, Domains & dedicated IPs): Sind **DKIM, SPF und DMARC** grün oder offen? Wenn offen: Melde die fehlenden DNS-Einträge im Wortlaut, **ändere nichts**. Das ist der wichtigste Hebel, damit Mails nicht im Spam landen. Benutzt der Sender `newsletter@printmypet.de` noch die Brevo-Standard-Signatur?
+C2. **Double-Opt-in-Mails:** Es gibt zwei Futterrechner-Varianten (Template **147** im alten Design mit Arial und beigem Hintergrund, und **158** „v2" im Markenstil). Welche ist im Anmeldeformular und in der Automation hinterlegt? Wenn 147 im Einsatz ist, melde das, denn sie passt nicht zum Markenauftritt.
+C3. **Antwortadresse und Impressumsfuß:** Stimmen Absender, Antwortadresse `kontakt@printmypet.de` und die Firmenadresse im Fuß (Creator Advisory S.L., Valencia)?
 
-B1. **Pinterest prüfen:** Ist `printmypetinfo` noch verbunden, oder meldet Postiz „Verbindung abgelaufen"? Bei Ablauf neu verbinden. Teste nur mit einem **neuen** Entwurf.
+### D. Anmeldung und Datenfluss (der Weg zu echten Abonnenten)
 
-B2. **Die 7 fehlgeschlagenen Print-my-Pet-Posts** (siehe Abschnitt 1): **nicht neu planen und nicht ändern.** Nur melden, was die Ursache ist, und Tobi entscheiden lassen.
-
-### C. Anmelde-CTAs: nur für die Zukunft
-
-Grundlage: `postiz_pmp_cta_analyse_2026-10-03.csv`. Sie dient **nur zur Orientierung**, welche Kanäle bisher zu wenig CTA haben.
-
-1. **Bestehende Posts (Queue, Entwürfe, veröffentlicht): nicht bearbeiten.**
-2. **Gilt ab jetzt für alle neuen Posts**, die wir nach dem bereits geplanten Zeitraum anlegen. Der letzte eingeplante Termin steht in der CSV (Spalte `publish_utc`, größter Wert). Neue Posts beginnen danach und bekommen ihren CTA direkt beim Anlegen.
-3. **Vorschläge statt Änderungen:** Füge der CSV eine Spalte `cta_vorschlag` hinzu, mit einem Satz je Post ohne CTA aus den nächsten 14 Tagen. Angewendet wird nichts, Tobi gibt später frei.
-4. **Link-in-Bio prüfen** (Instagram, TikTok, Threads): Zeigt er auf Futterrechner oder Startpaket? Wenn nicht, melden. Das ist die schnellste Hebelwirkung, ohne einen einzigen Post zu ändern.
-
-**Texte für künftige Posts:** Ein CTA pro Post, ein Satz, ohne Marktschreierei. Beispiele zum Anpassen:
-- Hund: „Wie viel Futter braucht dein Hund wirklich? Der kostenlose Futterrechner: [Link]"
-- Welpe: „Gratis Startpaket für die ersten 30 Tage mit Welpe: [Link]"
-- Instagram/TikTok: „Link in Bio".
-- YouTube (neue Videos): Anmelde-Link und Satz in die Beschreibung, **vor** den drei Hashtags am Ende. Tags 5 bis 12, keine Hashtags im Titel.
-
-### D. Shopify und Website (nur Klick-Einstellungen, kein Code)
-
-D1. **Einwilligung zur Hundepost bei der Bestellung:** Einstellungen → Kasse → Marketing-Optionen. „E-Mail-Marketing" im Checkout anbieten, Häkchen nicht vorausgewählt (DSGVO). Melde, ob das schon aktiv ist.
-
-D2. **Shopify mit Brevo verbinden**, falls die Integration fehlt: Kunden mit Einwilligung sollen automatisch in die Hundepost-Liste. Melde den Stand und ob die Integration kostenlos ist. **Keine kostenpflichtige App installieren.**
-
-D3. **Footer-Anmeldung:** Gibt es im Footer und im Blog („Magazin") ein Anmeldefeld für die Hundepost? Wenn nicht, nur melden. Das baut Claude Code als Code-Änderung.
-
-### E. Gesund aus der Erde (Nebenschauplatz, nur Prüfung)
-
-Melde nur: Wie viele aktive Abonnenten hat Liste 9? Gibt es in den letzten 3 Ausgaben einen Button mit einem Produktangebot? Wenn nein, Tobi informieren. Wir bauen das später um.
+D1. **Formulare:** Gibt es aktive Anmeldeformulare für Hundepost, Futterrechner und Welpen-Startpaket? Liste URL, Ziel-Liste und „Double-Opt-in an/aus".
+D2. **Ende-zu-Ende-Test, einmal pro Strecke** mit einer **neuen Testadresse** `inruheerklaert+e2e-1@gmail.com`, `+e2e-2` usw. (Tobis Postfach). Reihenfolge je Strecke: Formular ausfüllen → Bestätigungsmail → Klick → Willkommensmail/Startpaket → Kontakt in der richtigen Liste mit den richtigen Attributen (z. B. `HUND_NAME`). **Gib Tobi die Adressen und Uhrzeiten durch**, damit Claude im Postfach nachsieht, ob die Mails ankommen und nicht im Spam landen. Seiten: `/pages/futterrechner` und `/pages/welpen-startpaket` auf printmypet.de.
+D3. **Shopify-Einwilligung an der Kasse:** Einstellungen → Kasse → Marketing-Optionen. „E-Mail-Marketing" anbieten, Häkchen **nicht vorausgewählt** (DSGVO). Melde den Stand.
+D4. **Shopify mit Brevo verbinden:** Gibt es eine Verbindung, die Kunden mit Einwilligung automatisch in die Hundepost-Liste überträgt? Wenn nein: Melde, welche kostenlose Möglichkeit es gibt. **Keine kostenpflichtige App installieren.**
+D5. **Footer und Blog (Magazin) der Website:** Gibt es dort ein Anmeldefeld für die Hundepost? Nur melden. Der Einbau ist eine Code-Änderung (Claude Code).
 
 ---
 
 ## 3. Bericht an Tobi (am Ende, kurz)
 
-Ein Dokument mit:
-1. Tabelle der gelöschten und behaltenen Templates und Listen (ID, Name, Grund).
-2. Ergebnis zu A5 bis A7 (Hundepost Nr. 1, Kampagne 75, Formular-Links).
-3. Postiz: Ursache der Fehler und Stand der Pinterest-Verbindung (keine Posts geändert).
-4. Ergebnis zu Link-in-Bio und die Spalte `cta_vorschlag` in der CSV.
-5. Alles, was nicht wie beschrieben aussah, mit Screenshot.
-6. Offene Entscheidungen für Tobi, jeweils mit deiner Empfehlung.
+1. Hundepost Nr. 1: Was wurde erledigt (A1 bis A4), was fehlt, ist das Corgi-Video am 13.10. öffentlich?
+2. Tabelle der gelöschten und behaltenen Templates und Listen (ID, Name, Grund).
+3. Zustellbarkeit: Stand von DKIM, SPF, DMARC, die fehlenden Einträge im Wortlaut.
+4. Ende-zu-Ende-Test: je Strecke bestanden/nicht bestanden, mit den Testadressen und Uhrzeiten.
+5. Shopify-Einwilligung und Brevo-Verbindung: Stand.
+6. Alles, was nicht wie beschrieben aussah, mit Screenshot.
+7. Offene Entscheidungen für Tobi, jeweils mit deiner Empfehlung.
 
-**Nicht tun:** Kampagnen senden, Tarife ändern, Kontakte außerhalb von A3 und A4 löschen, Amazon-Posts bewerben, bestehende Posts ändern oder neu planen, Texte neu erfinden, die bestehenden Mailstrecken umbauen. Die sind fertig und im Markenstil gebaut.
+**Nicht tun:** Kampagnen senden oder terminieren, Tarife ändern, DNS ändern, Kontakte außerhalb von B3 und B4 löschen, Mailstrecken umbauen, Social-/Postiz-Posts anfassen, Gesund aus der Erde oder andere Marken bearbeiten.
