@@ -120,3 +120,12 @@ Typ: **R** = Ratgeber · **A** = Ausfüll- oder Geschenkbuch · **K** = Kochbuch
 - [Amazon.de Bestseller Urban Gardens](https://www.amazon.de/gp/bestsellers/books/189655/ref=zg_b_bs_189655_1)
 - [Amazon.de Bestseller Geschenkbücher für Hundefreunde](https://www.amazon.de/gp/bestsellers/books/13696881)
 - [Amazon.de Bestseller Künstliche Intelligenz](https://www.amazon.de/gp/bestsellers/books/15095833031)
+
+## 6. Ideenpool: Hype trifft Evergreen (Nr. 31–50)
+
+Prinzip: **Hype-Begriff + Bedürfnis, das bleibt.** Der Hype sorgt für Suchanfragen jetzt, das Evergreen-Bedürfnis
+dafür, dass das Buch auch nach dem Hype noch verkauft. Ein Titel nach dem Muster „Abnehmen mit Abnehmspritze“
+bleibt verkäuflich, wenn das Medikament längst Alltag ist.
+
+Kandidaten stehen in `rocket-keywords.csv` (Nr. 31–50). Die stärksten Kandidaten ersetzen später die
+schwächsten der ursprünglichen 30.
