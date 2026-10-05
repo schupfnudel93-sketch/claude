@@ -1,31 +1,31 @@
-nr,marke,start_begriff,zusatz
-1,PrintMyPet,hund erinnerungsbuch,hundebuch zum ausfüllen
-2,PrintMyPet,katze erinnerungsbuch,katzenbuch zum ausfüllen
-3,Gesund aus der Erde,gartenplaner 2027,mondkalender garten 2027
-4,Liebespsyche,sternzeichen steinbock,geschenk steinbock
-5,Liebespsyche,fragen für paare,paarbuch zum ausfüllen
-6,PrintMyPet,hundekekse backen,hunde kochbuch
-7,TB/Virya,krafttraining frauen,wechseljahre abnehmen sport
-8,TB/Virya,trainingstagebuch,fitness tagebuch
-9,TB/Virya,protein kochbuch,abnehmen ohne hungern
-10,Creator Advisory,bücher schreiben mit ki,kdp self publishing
-11,Creator Advisory,chatgpt prompts,ki für selbstständige
-12,Liebespsyche,sternzeichen wassermann,geschenk wassermann
-13,Liebespsyche,sternzeichen liebe,sternzeichen partner
-14,Fixstart,online dating,dating profil
-15,Liebespsyche,bindungsangst,bindungsstile
-16,Liebespsyche,sternzeichen fische,geschenk fische
-17,Fixstart,dating ab 40,neuanfang nach trennung
-18,Gesund aus der Erde,hochbeet,hochbeet anfänger
-19,Gesund aus der Erde,balkon gemüse,selbstversorger balkon
-20,Gesund aus der Erde,heilkräuter garten,heilpflanzen anbauen
-21,Liebespsyche,sternzeichen widder,geschenk widder
-22,Gesund aus der Erde,wildkräuter,essbare wildpflanzen
-23,Gesund aus der Erde,fermentieren,einkochen
-24,PrintMyPet,haustier verlust trauer,trauer hund
-25,PrintMyPet,welpen tagebuch,welpe erstes jahr
-26,Liebespsyche,narzissmus beziehung,verdeckter narzissmus
-27,TB/Virya,rückentraining,rückenschmerzen übungen
-28,TB/Virya,fit ab 60,gleichgewichtstraining senioren
-29,Fixstart,dating für männer,frauen ansprechen
-30,Creator Advisory,ugc creator,instagram geld verdienen
+nr,bereich,start_begriff,zusatz
+1,Creator Advisory,bücher schreiben mit ki,buch veröffentlichen
+2,Creator Advisory,kdp self publishing,amazon kdp geld verdienen
+3,Creator Advisory,chatgpt prompts,ki für selbstständige
+4,Creator Advisory,ugc creator,brand deals
+5,Creator Advisory,youtube kanal starten,youtube geld verdienen
+6,Creator Advisory,social media marketing,instagram reels
+7,Creator Advisory,ki videos erstellen,ki tools
+8,Garten,gartenplaner 2027,mondkalender garten 2027
+9,Garten,hochbeet,hochbeet anfänger
+10,Garten,selbstversorger garten,gemüsegarten anlegen
+11,Garten,balkon gemüse,balkongarten
+12,Garten,kräutergarten,kräuter anbauen
+13,Garten,tomaten anbauen,gemüse anbauen
+14,Kochen,heißluftfritteuse rezepte,airfryer kochbuch
+15,Kochen,meal prep,meal prep kochbuch
+16,Kochen,protein kochbuch,high protein rezepte
+17,Kochen,einkochen,vorräte anlegen
+18,Kochen,fermentieren,sauerteig
+19,Tiere,hund erinnerungsbuch,hundebuch zum ausfüllen
+20,Tiere,katze erinnerungsbuch,katzenbuch zum ausfüllen
+21,Tiere,hundekekse backen,hunde kochbuch
+22,Tiere,welpenerziehung,welpe erstes jahr
+23,Tiere,haustier verlust trauer,trauer hund
+24,Training,krafttraining frauen,wechseljahre krafttraining
+25,Training,krafttraining ab 50,fit ab 60
+26,Training,trainingstagebuch,trainingsplan
+27,Athletik,hyrox training,hyrox
+28,Athletik,athletiktraining,athletiktraining fußball
+29,Athletik,schnelligkeitstraining,sprungkraft
+30,Athletik,mobility training,beweglichkeit
