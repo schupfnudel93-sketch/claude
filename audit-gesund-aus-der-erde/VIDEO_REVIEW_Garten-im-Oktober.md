@@ -55,13 +55,9 @@ Die Einblendungen sind kleine Textkästen unten links (Beispiel 5:40: „Ventil 
 - Jede Quelle als Karte für zwei Sekunden: „Quelle: Landwirtschaftskammer NRW", „Quelle: BfR". Das macht aus „er behauptet" ein „er belegt" und unterscheidet den Kanal sichtbar von allen anderen.
 - Kapitelwechsel als Vollbild-Karte für eine Sekunde statt nur kleinem Badge oben links. Hilft der Orientierung und senkt Absprünge.
 
-### 3. Kein Gesicht, kein Mensch
+### 3. Kein Mensch im Bild (Entscheidung: bleibt so)
 
-Zwölf Minuten ohne Sprecher im Bild. Zusammen mit Stockmaterial liest YouTube und der Zuschauer das als anonymen Kanal. Die Haltekurve des Vorgängervideos (18 Gemüse) verliert 47 % in den ersten 40 Sekunden. Für dieses Video gilt derselbe Verdacht.
-
-Zwei Wege, beide ohne Studio:
-- Dein Kumpel oder du für 10 bis 15 Sekunden am Anfang und am Ende vor der Kamera, im Garten, Handy reicht. Rest bleibt Voice-over.
-- Wenn niemand vor die Kamera will: wenigstens die Hände beim Handgriff zeigen (siehe Punkt 1). Hände sind für den Zuschauer schon „jemand".
+Entscheidung des Kanals: weiterhin keine Personen und keine Gesichter. Dann muss das Bild die Nähe anders herstellen: Nahaufnahmen von Werkzeug und Pflanze beim Handgriff, Hände ohne Gesicht, Makro, Licht. Je weniger Mensch, desto wichtiger werden Bild-Ton-Sync (Punkt 1 und 9), große Einblendungen (Punkt 2) und eine Stimme mit Pausen (Punkt 5).
 
 ### 4. Rhythmus und Tempo
 
@@ -89,7 +85,7 @@ Wenn die Stimme aus ElevenLabs kommt: diese Wörter im Skript phonetisch schreib
 Das Skript ist überwiegend sauber. Drei Stellen würde ich vor dem nächsten Video noch einmal absichern:
 
 - **„Gründüngung neu aussäen geht nicht mehr, das Fenster war der Spätsommer" (11:20).** Winterroggen und Winterwicke gehen bis Ende Oktober. Die eigene Website hat eine Pflanzenseite zu Winterroggen, und am 17.09. lief das Video „Gründüngung: Der 1-Euro Trick". Das widerspricht sich. Besser: „Phacelia und Senf sind durch, Winterroggen geht noch."
-- **„Citrus hält bis etwa minus fünf Grad" (7:15).** Das gilt für wenige robuste Arten. Die meisten Zitruspflanzen nehmen unter null Grad Schaden. Formulierung entschärfen.
+- **„Citrus hält bis etwa minus fünf Grad" (7:15).** Aussage kann bleiben (Entscheidung Kanal), aber ausführlicher: welche Arten das vertragen (Yuzu, Kumquat, Dreiblättrige Orange), welche nicht (Zitrone, Limette), und woran man Kälteschaden erkennt. So bleibt der Satz richtig und wird nützlich.
 - **„Beetrosen werden im Herbst etwa auf die Hälfte eingekürzt" (7:55).** Üblich ist ein leichter Windschnitt um ein Drittel. „Hälfte" ist eher die Obergrenze.
 
 ### 7. Ende und Geld
@@ -97,6 +93,20 @@ Das Skript ist überwiegend sauber. Drei Stellen würde ich vor dem nächsten Vi
 - Das Video endet mit „Nächsten Sonntag Hochbeet" und der Website. Kein Hinweis auf Newsletter, kein Buch, keine Abo-Bitte. Das kostet nichts und ist der einzige Punkt, an dem aus Zuschauern Kunden werden.
 - Abspannkarte ist 10 Sekunden lang. Reicht für YouTube-Endscreen (Video plus Abo-Button), muss aber in YouTube Studio gesetzt werden. Prüfen, ob gesetzt.
 - Vorschlag für die letzten 20 Sekunden: Zusammenfassung (ist da), dann ein Satz „Die Oktober-Liste zum Ausdrucken gibt es im Newsletter auf gesundausdererde.de", dann Endscreen.
+
+### 9. Ergänzungen aus deinem Feedback (05.10.)
+
+- **Bild läuft dem Ton davon.** Bei 0:50 steht schon „Quitten" als Bild und Einblendung, die Stimme ist noch im Intro. Bei 1:40 ist das Bild schon bei Schlehen, die Stimme redet noch über Quitten. Regel für den Schnitt: Das Bild wechselt genau in der Sekunde, in der das neue Wort fällt, nie davor und nie mehr als eine Sekunde danach. Der Schnittplan muss aus den echten Zeitstempeln der fertigen Tonspur kommen, nicht aus der geschätzten Skriptlänge.
+- **Einblendungen größer.** Mindestens 70 bis 90 Pixel Zeilenhöhe bei 1080p, maximal sechs Wörter, mindestens drei Sekunden Standzeit. Eine Einblendung pro Aussage, nicht drei kleine.
+- **Weniger Quellennennung.** Nicht jeder Satz braucht „laut Landwirtschaftskammer". Höchstens eine gesprochene Quelle pro Kapitel, der Rest als kurze Einblendung oder in der Beschreibung. Sonst klingt es nach Behördenbrief.
+- **Emotionaler und schöner formulieren.** Jedes Kapitel beginnt mit einem Bild oder einem Gefühl (die erste frostige Nacht, der Geruch von Quitten in der Küche, der Igel unter dem Laubhaufen), dann kommt die Regel. Nicht Regel, Gesetz, Paragraf, sondern: Warum lohnt sich das, wie fühlt sich das an, was hat der Zuschauer davon.
+- **Stimme: Pausen und Betonung.** Die Stimme klingt an mehreren Stellen schlecht, weil sie ohne Sprechpause durchläuft und nichts betont. Im Skript Pausen setzen (Absätze, Gedankenstriche, Pausen-Marker für die Sprachsynthese), Schlüsselwörter betonen, nach jeder Kapitelkarte eine Sekunde Stille. Zieltempo 125 bis 135 Wörter pro Minute statt 142.
+- **Keine Bilddopplungen.** Kein Clip zweimal im Video. Wenn kein passendes Video da ist, lieber ein gutes Foto mit langsamer Bewegung (Ken-Burns) und sauberem Schnitt als ein wiederholter Clip.
+- **Kein Mensch im Bild bleibt.** Siehe Punkt 3.
+- **Citrus bleibt, aber ausführlicher.** Siehe Punkt 6.
+- **Gründüngung korrigieren.** Siehe Punkt 6.
+
+Das Video ist veröffentlicht und bleibt so. Alles hier gilt für das nächste Video, und zwar als deutliche Nachbesserung, nicht als Feinschliff.
 
 ### 8. Kleinigkeiten
 
