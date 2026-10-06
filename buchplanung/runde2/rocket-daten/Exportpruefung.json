@@ -1,0 +1,602 @@
+[
+  {
+    "Datei": "Keywords/01_darmgesundheit_keywords.csv",
+    "Zeilen": 23,
+    "SHA256": "4c15d681e05b7c633003032bc50e75e0b98da8984aa9142447c9c50e135d63f4",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/01_darmgesundheit_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "a5d9a8a754ab34bd59a31261e08e86bb6419ea95207e105b9338013dfae8b2a3",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/02_zone_2_training_keywords.csv",
+    "Zeilen": 29,
+    "SHA256": "3e6f556737af3b1f8ad524fb0512235e1e8b29448656ded358e0058ab86aeb89",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/02_zone_2_training_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "4d4f36fe66458b25166d85718fdf25448bf6aa424955bb7d87c3383b4433723a",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/03_longevity_keywords.csv",
+    "Zeilen": 27,
+    "SHA256": "966f01ffac8a8b4b798e51e77adab65bb67c4192f1b4c2e49f95410d51717d6b",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/03_longevity_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "bf5e05fe08203f1b8ca94a088db69401386ea03c5789cf14534d5568db746be1",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/04_schlaf_verbessern_keywords.csv",
+    "Zeilen": 20,
+    "SHA256": "63d1f7e87b5fd297f94485e8e085796301b73c0779bc42e4f11c4b4fcadfef67",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/04_schlaf_verbessern_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "f8f4aa095f04821af7e248d4d9b9e9c4df8075b41c589f935eab1753c9b3913a",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/05_hormone_frauen_40_keywords.csv",
+    "Zeilen": 20,
+    "SHA256": "6c4e0e3cb541d8117fbcb2b77a7bcb218220d29123eed3c15af303801db8966c",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/05_hormone_frauen_40_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "5e1ce7481faff52b0b3982e9a1065a2c21125d438b51a4f7c1c120b068358f68",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/06_nervensystem_regulieren_keywords.csv",
+    "Zeilen": 20,
+    "SHA256": "f7c688008348e507d4bb548e29515199e2911a8b4cfef23b57fd7d47a7681b79",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/06_nervensystem_regulieren_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "e5a6fc112fa33f2a8413d8f8bfe7d89692d745fabb3021b42598f5dcffffe431",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/07_kreatin_keywords.csv",
+    "Zeilen": 27,
+    "SHA256": "c67aa4e2598e11cff17a71e9df8d04cd5235afd541ac231fe0c2387d85826825",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/07_kreatin_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "f40ea176b468b9c496dc73ecd527b87669ca3a07c84949362fbbef7c83ea0eeb",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/08_intervallfasten_keywords.csv",
+    "Zeilen": 25,
+    "SHA256": "d0f9d844d1558c6df15316b32d493af1274c7bff2d6a11c590bda3980cf363ee",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/08_intervallfasten_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "b0edfba64c88a4629eaf9caba26a5b011ad03792f1fc422de7415a1d08383035",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/09_carnivore_diat_keywords.csv",
+    "Zeilen": 33,
+    "SHA256": "87405ce23ab9fd4d50469afbd42d160adf13ea3805337abbb2226693bb942678",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/09_carnivore_diat_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "7ddaf9a7ea9e4cd0a351557ddf71583409837614dd068847f8bd7714d652d001",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/10_heissluftfritteuse_rezepte_keywords.csv",
+    "Zeilen": 21,
+    "SHA256": "2730ed352b66eecaea33613da131df1923cd85b5d32d74749ce3888e44ad5344",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/10_heissluftfritteuse_rezepte_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "5361576ddde3b8edb58ec0571a300b34b3dfd197735d46c135dfc8c0b00db728",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/11_adhs_erwachsene_keywords.csv",
+    "Zeilen": 28,
+    "SHA256": "7d2a9adf7e6b3cddd66a87d1f7b759dc8ff8b551ca3b01e9eb371874ea6fd924",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/11_adhs_erwachsene_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "e3114240ff888736f0af93a3012092892e987349abe3680732d22ab0a408a036",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/12_hochsensibel_keywords.csv",
+    "Zeilen": 23,
+    "SHA256": "de0955dda13ee0c91b4aabc107f29e2f60666aeeee7d87f583ae9280dfa42c2b",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/12_hochsensibel_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "d8904ae37dfec97cd05e31b06a3346d06deff6d354e6032ed5347650e012aeae",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/13_dankbarkeitstagebuch_keywords.csv",
+    "Zeilen": 27,
+    "SHA256": "790f34bd560bcf8f679f38eafee192e34137b88e5b4b1cd0023643bdeef08799",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/13_dankbarkeitstagebuch_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "02c6ea7ef325792791e75a8e5623b983ab46e74983be6370d5de54382ef9060e",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/14_angst_workbook_keywords.csv",
+    "Zeilen": 30,
+    "SHA256": "edd1d3b2576b901e16ef6f71fb637f4c1a2749e5e774f75471382187e459373e",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/14_angst_workbook_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "ece12dd22802454462af3c879e045a44fd3ed3548504f8ae29965c078fe909f8",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/15_grenzen_setzen_keywords.csv",
+    "Zeilen": 25,
+    "SHA256": "fcd49a9a8b7ce0fb91d57933ddb40cae67921c01624e48defe0caf5f499552ef",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/15_grenzen_setzen_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "8f84049b6e85b704e5347ef5c9564e1ad24b999d74a6222e2cbe93e6efb8248d",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/16_innere_kind_heilen_keywords.csv",
+    "Zeilen": 18,
+    "SHA256": "b69105b26bff7344089041f0b3dfc485f53aafa9d061791fd13b8418af081647",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/16_innere_kind_heilen_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "87af7df49a2865ff7e3879325bc5166bf1009c8bafc125830828a3f1b7d44ef3",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/17_selbstwert_starken_keywords.csv",
+    "Zeilen": 19,
+    "SHA256": "87ed37412e2fbaa86ee6bb68994f20f6c1b0ac90462fababd782cbdf93f23b42",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/17_selbstwert_starken_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "75cf04e3d09b325a66ad3a9f41cc33f90d71529ea519de1e36c305498e8f9e8a",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/18_stress_bewaltigen_keywords.csv",
+    "Zeilen": 18,
+    "SHA256": "d576658ea3c54e4c478d83331dd74a43b58333064e0d4276cdf40fcbaf4a5323",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/18_stress_bewaltigen_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "e9f6cfa30faa1e0398bfa8d63863285e7487f1a0b8ced7acb2d039c84fa44d20",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/19_journaling_keywords.csv",
+    "Zeilen": 31,
+    "SHA256": "fe98ef99c73d25564064daf80fe9a63a9b281ba783dc8eefbc06c55be7c835fd",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/19_journaling_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "0491a11fdb2dc76c2b33dc70609ec7d70b77ca63ae2dbd311b13b452264533c8",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/20_achtsamkeit_ubungen_keywords.csv",
+    "Zeilen": 31,
+    "SHA256": "e0f96693fb0acdb4d105eb986e93ba2947fab2de1efc7e98bd12558c8316b0cf",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/20_achtsamkeit_ubungen_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "5f2a6992dae4480167a3dd1ffd86ce59f54266f0317fe4d80984ec8f1aa525b5",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/21_etf_sparplan_anfanger_keywords.csv",
+    "Zeilen": 24,
+    "SHA256": "22bc521847d8d896c8ca570e8e57387d7227d904b7bfc80d30a9485307885a19",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/21_etf_sparplan_anfanger_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "ac6654faaa78371cb56922b0ed1fc03f568e824dd6adaa9e455cc8130a51e494",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/22_haushaltsbuch_keywords.csv",
+    "Zeilen": 48,
+    "SHA256": "9aea6a54b534796f29be8e952602c5c2a295e47e6f9f9a26d3dba3f1f5db9930",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/22_haushaltsbuch_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "71dbd8c6a29ac87579d944d1f2e66398c4272111275ed59e459e72ac301c63ac",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/23_nebenberuflich_selbststandig_keywords.csv",
+    "Zeilen": 19,
+    "SHA256": "66c87c8e8106a4bc21e5c71a5bbd1201d9d1291e0c97fc31f58ef13d97fc0fd8",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/23_nebenberuflich_selbststandig_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "9358fefb10901899ca1f94f2d3a96a8e82018b009d92145792d620623bc27a51",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/24_rente_planen_keywords.csv",
+    "Zeilen": 22,
+    "SHA256": "fc308624c0838e8eff7dea7f988230a2c9903462598c51f9bb80332fbf68b57d",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/24_rente_planen_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "b5a8a4df7fbadb8564a76e570da7b894bb1dbc8c6685342275b0832013d42fe9",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/25_geld_sparen_tipps_keywords.csv",
+    "Zeilen": 24,
+    "SHA256": "088ce96c89a71a40358739bbd93a001d73420605947dae043c9d451f0dd13e99",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/25_geld_sparen_tipps_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "efc3686c27278d75a33a3e401685be3f4e9c671ac534a7cc80c641fd9649cbfd",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/26_ki_im_beruf_keywords.csv",
+    "Zeilen": 21,
+    "SHA256": "e3ed0f402237d2790f4f7a804c0c4213902ad22e4bf001df846542353f4552c4",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/26_ki_im_beruf_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "7eb14d6be17a6709503d05c07ee71eafe5429ea6d7290a8196a1a2afd17430fb",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/27_steuererklarung_selber_machen_keywords.csv",
+    "Zeilen": 22,
+    "SHA256": "326ab231d0d9deb97b9049db997b32997125b913fd708460ecc47c7500b33954",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/27_steuererklarung_selber_machen_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "3b4176037e3d6fc7d161175297e97204d9fc1451d2214dcc939708b9d87fae20",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/28_erstes_jahr_baby_buch_keywords.csv",
+    "Zeilen": 31,
+    "SHA256": "b39ab99a262ab42cd739ef34ccd746e845faec559b7abca647a53c0b64e0f6c6",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/28_erstes_jahr_baby_buch_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "299d69213cea0d3e1c7402b2572dd02aedfeffe1716ef72463cf05551e1c969d",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/29_kinder_beschaftigen_keywords.csv",
+    "Zeilen": 31,
+    "SHA256": "5c7427cf6b07dd29d0415581066eaae21327b106df5229fdb5aec9754b9972d2",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/29_kinder_beschaftigen_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "595b73f72df9224a6fdf2259f9176e4a657ea6337f88e0d3dfd5976632f03750",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/30_ratselbuch_kinder_6_jahre_keywords.csv",
+    "Zeilen": 17,
+    "SHA256": "38d5d0a065de4bc0ce2efd96bb8403cc3958f874fc8573f24dddee06cf3dbb55",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/30_ratselbuch_kinder_6_jahre_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "1524e7ae8354bb04d80355eafc2f1017956b8d04640a8705409cd1c95368f022",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/31_vorlesegeschichten_keywords.csv",
+    "Zeilen": 21,
+    "SHA256": "fdcf28b5199e50ffa19494c2e1eca25497dff6bdbe79fcf52eebdc96200dd7e9",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/31_vorlesegeschichten_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "bab5283c680f2cd61b81e03eb764c9c8924b181d647d0e0b01715fac5d692a7c",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/32_schwangerschaft_tagebuch_keywords.csv",
+    "Zeilen": 29,
+    "SHA256": "0b02056e85c2d414b67ddf6b2ad5f678b17e45f7756393b3bd138dd8722183b7",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/32_schwangerschaft_tagebuch_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "6bdfa5b1821a3484461204e2e2a7762b6cc4d741f4b11e7ebcc27a2e1e84eb17",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/33_grosseltern_buch_zum_ausfullen_keywords.csv",
+    "Zeilen": 27,
+    "SHA256": "0ed732ec260f140a968cd963d84a9ccfcba191941d3fe448c95c9e1d11393a26",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/33_grosseltern_buch_zum_ausfullen_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "92cf192f9062e3b89c315cd8770c7325bdc13c29c499c19837f8a71eb37c20b5",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/34_oma_erzahl_mal_keywords.csv",
+    "Zeilen": 34,
+    "SHA256": "36efc1176fd9d9a74a97c7c6bbdfcd4888c19f9c57e18e38efa8e7d046885b0a",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/34_oma_erzahl_mal_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "06bff1d55653b385f56aa085cccd539f4c494ac19b145fa6805d013de9fcaf9f",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/35_sauerteig_brot_backen_keywords.csv",
+    "Zeilen": 32,
+    "SHA256": "ab2949af5ebf1f6bf44d84d1897cf2a6a18f35b114464475112f76718406a3ef",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/35_sauerteig_brot_backen_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "36cef2447293de300ab993634d9c9e4cb32810be26b1ce7ddfcca74eb3a94c84",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/36_cottagecore_malbuch_keywords.csv",
+    "Zeilen": 28,
+    "SHA256": "4a8f6cec3d88ffc8b6efb9da11b1d66e63502d16f9931b43578e2d652fba5f32",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/36_cottagecore_malbuch_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "86bf0eac4f7a1ef72e097dcee00451c889c7ae8b54a1940e09be6c531c40d9fd",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/37_mandala_malbuch_erwachsene_keywords.csv",
+    "Zeilen": 23,
+    "SHA256": "73607c966a30aba71564cdd830c4e6791e0e885dd4910f1ada759ebab0715939",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/37_mandala_malbuch_erwachsene_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "2a7d3537759e02b1b7b41a39a31d33b7e5249816b98d931c0ea5d9120bb67aba",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/38_hakeln_anfanger_keywords.csv",
+    "Zeilen": 33,
+    "SHA256": "88f5a52fbf0c0135a470159bc2747daa73fbb78a91de62a7faf9a117a706f583",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/38_hakeln_anfanger_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "b210acc494550ac895a0e50b69cddd5cb2221c32b6f8f0f751b811a2ed408481",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/39_pilze_bestimmen_keywords.csv",
+    "Zeilen": 34,
+    "SHA256": "888fdc9fef5592675be8bb4c8d866bbd7cac21eaec3c73d46ab3786deb2705da",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/39_pilze_bestimmen_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "4f91114a466fea97e2bb3ff91cc11fc07fe5aeb419433908851453cb12a7f799",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/40_fermentieren_keywords.csv",
+    "Zeilen": 21,
+    "SHA256": "023cb69a0a7b0282d21463a86b69215eec9eb6a1693055485e8df34c468f6fea",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/40_fermentieren_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "d4550fe697acf37b67ed77597532203a3ec9bad5600292d31da873ec31784a9b",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/41_nahen_lernen_keywords.csv",
+    "Zeilen": 37,
+    "SHA256": "a6a4fb89bd8f6c95875214bf55c723a57e838b3e1e04083f2477682deab69488",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/41_nahen_lernen_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "acc5eb48c565245c5d57a58a9f8e1968ee15c3033e172124ccf23f67c0572290",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/42_angeln_anfanger_keywords.csv",
+    "Zeilen": 27,
+    "SHA256": "784eb447a5fbc71f9b48b75dd5be90e6cb5489f3de274abe3b6d2cfc942febf4",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/42_angeln_anfanger_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "ee73db48f76c8adb25cd939019cbee28943c67f7fa8591a987282011c30b57c1",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/43_weihnachtsgeschenk_mann_keywords.csv",
+    "Zeilen": 27,
+    "SHA256": "2d5a835a30e57e6092be230c7ec0195cad3c406f2c8c4367afcd3d908b48697f",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/43_weihnachtsgeschenk_mann_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "c93b89d394c38cb1dda59001c4ab765d9ea8ef71d2f0d88938048291ea66619e",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/44_adventskalender_buch_keywords.csv",
+    "Zeilen": 42,
+    "SHA256": "cfd4090c071983c7dcb7d66c6b5234e9ce5e3023cad493fec6c2201c0eb520b9",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/44_adventskalender_buch_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "b267edbe7edab92f72e7380c8746b4e5e027825d0e7e92f5d9430ec01bf927b0",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/45_hochzeit_erinnerungsbuch_keywords.csv",
+    "Zeilen": 32,
+    "SHA256": "fceb39344f362fbedbfbbd966edc2aa1e66d1ab82155af3d8e3990684ad4c824",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/45_hochzeit_erinnerungsbuch_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "0c63e22234490be078b93f86126cbdebce1248efdef93e8faf6036404c81768a",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/46_ruhestand_geschenk_keywords.csv",
+    "Zeilen": 48,
+    "SHA256": "8aa2e43d1470e6b227b5b9d0e7f56f60246dc9809dc57986bf307f968eff48e6",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/46_ruhestand_geschenk_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "020b98d4ec51c6a8004e22b4cce675b756e051ea016dedab3fc80bc6c692638a",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/47_abschied_kollege_geschenkbuch_keywords.csv",
+    "Zeilen": 23,
+    "SHA256": "39711cb301ea67bdbc0da094d90be081d90135af2be9434a036901ddb3a53344",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/47_abschied_kollege_geschenkbuch_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "3de03f798d7ac32e10d0e402eab5736c0fe5537d1536fae3d933f1afc17aed5e",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/48_50_geburtstag_geschenk_buch_keywords.csv",
+    "Zeilen": 27,
+    "SHA256": "0e792a87ad4aadd8da2ca8d4178f9051595e47e56a1df6eaa7d3135d25d854b6",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/48_50_geburtstag_geschenk_buch_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "d187483573adaf9c889f627429965a3e18dd181f685145c57cdc545bd7de11c5",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/49_freundebuch_erwachsene_keywords.csv",
+    "Zeilen": 38,
+    "SHA256": "19e364f700a7f3fcfc14b393ff50b274778808f729257db5d56143bdadfe7a54",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/49_freundebuch_erwachsene_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "720ea897453e32adae66be9b3f8dbdf23b2f0548b63338dc36cadb4aa8d95037",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Keywords/50_jahresruckblick_buch_keywords.csv",
+    "Zeilen": 31,
+    "SHA256": "db4b79152d8d096431bab561a518caac1c71c9b8ca2eeaf746469c687de480bf",
+    "Ungeladene_Keywordzeilen": 0
+  },
+  {
+    "Datei": "Konkurrenz/50_jahresruckblick_buch_konkurrenz.csv",
+    "Zeilen": 10,
+    "SHA256": "8b80350d606aa6126707f14ce298a6fe03eb2f11b08c4bfb2552d9c71aaef969",
+    "Ungeladene_Keywordzeilen": 0
+  }
+]
